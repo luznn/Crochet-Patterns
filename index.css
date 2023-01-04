@@ -1,0 +1,39 @@
+body {
+    background: url(image/background1.jpg);
+    background-repeat:repeat;
+    /* repeat will make the image cover the entire page, making a pattern */
+}
+
+.link {
+    background-color:rgb(78, 1, 1);
+    height:90px;
+}
+
+.link ul li a {
+    color: rgb(170, 59, 59);
+    text-decoration: none;
+    font-size: 24px;
+    padding: 12px;
+    font-weight: 500; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 62px;
+}
+
+.link ul li {
+    display: inline;
+ 
+}
+
+.link h4 {
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+

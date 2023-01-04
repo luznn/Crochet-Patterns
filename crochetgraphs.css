@@ -1,0 +1,57 @@
+body {
+    background: url(image/background1.jpg);
+    background-repeat:repeat;
+    /* repeat will make the image cover the entire page, making a pattern */
+}
+
+.link {
+    background-color:rgb(78, 1, 1);
+    height:90px;
+    text-align: center;
+}
+
+.link ul li a {
+    color: rgb(170, 59, 59);
+    text-decoration: none;
+    font-size: 24px;
+    padding: 42px;
+    font-weight: 500; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* padding-left: 62px; */
+    text-align: center;
+}
+
+.link ul li {
+    display: inline;
+ 
+}
+
+.link h4 {
+    padding-top: 15px;
+}
+
+
+body/h1 {
+    color:red
+    padding-left=300px
+}
+
+
+
+
+
+
+
+@media screen and (min-width:480px) {
+    .h1{
+        color:red
+    }
+    }
+
+
+
+
+
+
+
+
